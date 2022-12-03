@@ -1,1 +1,1 @@
-# pacman-template
+# PacMan Game
